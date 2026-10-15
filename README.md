@@ -95,7 +95,7 @@ This project demonstrates experience with:
 
 ## Project Files
 
-- `baseball-salary-analysis results` — exported Databricks notebook containing the analysis
+- `CIS5560_Lab_Midterm_Exam_1.ipynb` — exported Databricks notebook containing the analysis
 - `baseball_salaries_2003v2.txt` — source dataset, if included
 - `README.md` — project documentation
 
